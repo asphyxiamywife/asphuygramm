@@ -2077,7 +2077,7 @@
    <string name="DownloadThemes">Download ugly ass themes</string>
    <string name="Theme">Theme This Ugly Bitch</string>
    <string name="PlusSettings">Koffagram Plus Settings</string>
-   <string name="Users">offline</string>
+   <string name="Users">users</string>
    <string name="UsePlusTheme">Use Plus theming</string>
    <string name="OfficialChannel">Official fucking channel</string>
    <string name="Community">Gay+ community</string>
@@ -2509,7 +2509,7 @@ Please turn NSA Tracking access to enable this fucking feature and provide perso
   <string name="LastSeenDate">last fucking seen</string>
   <string name="LastSeenDateFormatted">last fucking seen %1$s</string>
   <string name="LastSeenFormatted">last fucking seen %1$s</string>
-  <string name="Lately">offline</string>
+  <string name="Lately">online</string>
   <string name="PrivacyLastSeen">Last Fucking Seen</string>
   <string name="WithinAMonth">bruh, he's dead</string>
   <string name="WithinAWeek">last seen within a fucking week</string>
