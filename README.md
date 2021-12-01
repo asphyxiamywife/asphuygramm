@@ -1,3 +1,3 @@
 # asphuygramm
 custom elegramm localization file(s?)
-based on koffagram 
+based on <a href='https://t.me/koffagramupdates'>koffagram</a>
